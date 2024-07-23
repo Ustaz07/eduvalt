@@ -7,6 +7,7 @@ EduVault is a project aimed at streamlining access to educational resources thro
 - **Deployed Project Page**: [EduVault Deployed App](http://www.quantem.tech/)
 - **Project Landing Page**: [EduVault Landing Page](https://ustaz07.github.io/quantemtech2.github.io/)
 - **LinkedIn Profile**: [My LinkedIn](https://www.linkedin.com/in/shamsuddeen-abdullahi/)
+- **Project blog article**: [blog article](https://medium.com/@shamsutukor/portfolio-project-blog-post-2b8fbc2c667c)
 
 
 ## Team Members
