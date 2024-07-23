@@ -32,7 +32,7 @@ EduVault is a project aimed at streamlining access to educational resources thro
 - DigitalOcean
 - Nginx
 
-## Challenge Statement
+## Challenge Statement 🎯
 
 ### Problem
 EduVault addresses the inefficient storage and retrieval of lecture notes and educational materials in academic institutions.
@@ -45,7 +45,7 @@ EduVault does not cover real-time collaboration, advanced learning analytics, or
 - Instructors
 - Academic Administrators
 
-## Risks
+## Risks ⚠️
 
 ### Technical Risks
 - Data Security and Privacy
@@ -59,7 +59,7 @@ EduVault does not cover real-time collaboration, advanced learning analytics, or
 - Resource Constraints
 - Market Competition
 
-## Infrastructure
+## Infrastructure 🏗️
 
 ### Branching and Merging Process
 - Main Branch
@@ -79,7 +79,7 @@ EduVault does not cover real-time collaboration, advanced learning analytics, or
 - Database Migration Scripts
 - Testing Tools and Automation
 
-## Existing Solutions
+## Existing Solutions 🔍
 
 ### Comparison with Similar Solutions
 - Google Classroom
