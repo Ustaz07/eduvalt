@@ -3,11 +3,12 @@
 ## Project Overview
 
 EduVault is a project aimed at streamlining access to educational resources through secure data storage and retrieval. It provides a centralized digital repository for managing lecture notes and course materials in academic institutions. For more visits:
-- **GitHub Project Repository**: [EduVault GitHub]([https://github.com/ustaz07/quantemtech2.github.io](https://github.com/ustaz07/quantemtech2.github.io))
-- **Deployed Project Page**: [EduVault Deployed App]([URL_HERE](https://ustaz07.github.io/quantemtech2.github.io/#getting-started)
-- **Project Landing Page**: [EduVault Landing Page]([URL_HERE](https://ustaz07.github.io/quantemtech2.github.io/)
-- **LinkedIn Profile**: [My LinkedIn]([URL_HERE](https://www.linkedin.com/in/shamsuddeen-abdullahi/)
-- **Deployed Project Page**: [My project]([URL_HERE](http://www.quantem.tech/)
+- **GitHub Project Repository**: [EduVault GitHub](https://github.com/ustaz07/quantemtech2.github.io)
+- **Deployed Project Page**: [EduVault Deployed App](https://ustaz07.github.io/quantemtech2.github.io/#getting-started)
+- **Project Landing Page**: [EduVault Landing Page](https://ustaz07.github.io/quantemtech2.github.io/)
+- **LinkedIn Profile**: [My LinkedIn](https://www.linkedin.com/in/shamsuddeen-abdullahi/)
+- **Deployed Project Page**: [My Project](http://www.quantem.tech/)
+
 
 ## Team Members
 
