@@ -1,16 +1,16 @@
 # EduVault
 
-## Project Overview
+## Project Overview 💡
 
 EduVault is a project aimed at streamlining access to educational resources through secure data storage and retrieval. It provides a centralized digital repository for managing lecture notes and course materials in academic institutions. For more visits:
-- **GitHub Project Repository**: [EduVault GitHub](https://github.com/Ustaz07/eduvalt)
-- **Deployed Project Page**: [EduVault Deployed App](http://www.quantem.tech/)
-- **Project Landing Page**: [EduVault Landing Page](https://ustaz07.github.io/quantemtech2.github.io/)
-- **LinkedIn Profile**: [My LinkedIn](https://www.linkedin.com/in/shamsuddeen-abdullahi/)
-- **Project blog article**: [blog article](https://medium.com/@shamsutukor/portfolio-project-blog-post-2b8fbc2c667c)
+- **GitHub Project Repository**: [EduVault GitHub](https://github.com/Ustaz07/eduvalt) 🤖
+- **Deployed Project Page**: [EduVault Deployed App](http://www.quantem.tech/) 🌐
+- **Project Landing Page**: [EduVault Landing Page](https://ustaz07.github.io/quantemtech2.github.io/) 🌍
+- **LinkedIn Profile**: [My LinkedIn](https://www.linkedin.com/in/shamsuddeen-abdullahi/) 🔗
+- **Project Blog Article**: [Blog Article](https://medium.com/@shamsutukor/portfolio-project-blog-post-2b8fbc2c667c) 📝
 
 
-## Team Members
+## Team Members 👥
 
 - **Shamsuddeen Abdullahi**
   - Project Manager: Overseeing the project from inception to completion, ensuring tasks are on schedule.
@@ -20,7 +20,7 @@ EduVault is a project aimed at streamlining access to educational resources thro
   - Quality Assurance Tester: Testing the application for bugs and ensuring reliability.
   - Technical Support: Providing assistance for technical issues post-deployment.
 
-## Technologies Used
+## Technologies Used 🖥️
 
 - PHP
 - JavaScript
@@ -92,7 +92,7 @@ EduVault does not cover real-time collaboration, advanced learning analytics, or
 - Cost-Effectiveness
 - Specific Focus on Educational Materials
 
-## How to Use EduVault
+## How to Use EduVault 🛠️
 
 ### Installation
 - Clone the repository: `git clone https://github.com/your-username/eduvault.git`
@@ -111,7 +111,7 @@ EduVault does not cover real-time collaboration, advanced learning analytics, or
 - Push to the branch: `git push origin feature/new-feature`
 - Submit a pull request
 
-## License
+## License 📜
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
