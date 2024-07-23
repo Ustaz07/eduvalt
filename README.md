@@ -2,7 +2,11 @@
 
 ## Project Overview
 
-EduVault is a project aimed at streamlining access to educational resources through secure data storage and retrieval. It provides a centralized digital repository for managing lecture notes and course materials in academic institutions.
+EduVault is a project aimed at streamlining access to educational resources through secure data storage and retrieval. It provides a centralized digital repository for managing lecture notes and course materials in academic institutions. For more visits:
+- **GitHub Project Repository**: [EduVault GitHub](URL_HERE)
+- **Deployed Project Page**: [EduVault Deployed App](URL_HERE)
+- **Project Landing Page**: [EduVault Landing Page](URL_HERE)
+- **LinkedIn Profile**: [My LinkedIn](URL_HERE)
 
 ## Team Members
 
