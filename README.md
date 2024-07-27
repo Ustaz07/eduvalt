@@ -109,7 +109,7 @@ EduVault does not cover real-time collaboration, advanced learning analytics, or
 - Create a new branch: `git checkout -b feature/new-feature`
 - Make your changes and commit them: `git commit -am 'Add new feature'`
 - Push to the branch: `git push origin feature/new-feature`
-- Submit a pull request
+- Submit a pull request.
 
 ## License 📜
 
